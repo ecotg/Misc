@@ -26,6 +26,7 @@ respective product.
 Script utilizes the Scrapy method, its xpath, ItemLoader and LinkExtractor
 classes to obtain the product data.
 
+
 """
 
 from for_360pi.items import VisionsProduct

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Define your item pipelines here
+# Define item pipelines here
 
 
 class For360PiPipeline(object):
